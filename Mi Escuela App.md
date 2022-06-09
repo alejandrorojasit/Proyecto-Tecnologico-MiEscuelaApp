@@ -123,7 +123,7 @@ En primera medida habia que definir de forma clara que lenguaje se iba a utiliza
 
 Despues de una larga busqueda el lenguaje seleccionado y que cumplia todas estas pautas fue el llamado javascript. Javascript es un lenguaje el cual tiene una gran flexibilidad y es el lenguaje mas popular en la actualidad, segun la pagina www.stackoverflow.com el foro mas popular a nivel mundial de programacion.
 
-![Javascript popularidad](./assets/JavaScript.jpg)
+![Javascript popularidad](../assets/JavaScript.jpg)
 
 Sin embargo un solo lenguaje no es suficiente para crear una aplicacion con todas las caracteristicas que este proyecto necesita. Ademas de javascript los lenguajes HTML y CSS son necesarios tambien para logar crear un Frontend que sea funcional e intuitivo.Cabe resaltar que HTML y CSS ocupan el segundo lugar de los lenguajes mas utilizados a nivel mundial.
 
@@ -138,29 +138,29 @@ Dentro de las herramientas que se van a utilizar se pueden mencionar:
 
     - NeoVim (Un editor de codigo. Si bien su uso es complejo,ya que de entrada no viene con nada mas que la posilidad de escribir texto,y no se utiliza el mouse, todo debe realizarce con comandos de teclado. Cuenta con una enorme flexibilidad de poder adaptar el mismo al capricho del usuario volviendose una herramienta a medida muy poderosa y llena de plugins [^plugin] que se pueden instalar a fin de aumentar la productividad)  
 
-    ![nvim](./assets/nvim.jpg)
+    ![nvim](../assets/nvim.jpg)
 
     *Terminal de nvim con codigo fuente, se puede apreciar como el texto debe ser ordenado a fines de facilitar su lectura, asi como tambien los colores que se ven son el resultado de la herramienta que colorea palabras segun un patron para facilitar tambien su letura.*  
 
     - Una terminal (Un terminal es un programa en si mismo que viene en todos los sitemas operativos, se utiliza principalmente para leer y ejecutar comandos que el usuario envia mediante el teclado. Ademas en desarrollo de software se vuelve escencial ya que a travez de la terminal se leen problemas detectados al momento de ejecutar un software) 
 
-    ![terminalVacia](./assets/terminalVacia.jpg)
+    ![terminalVacia](../assets/terminalVacia.jpg)
 
     *Una terminal vacia esperando un comando.*
 
-    ![terminalLlena](./assets/terminalLlena.jpg)
+    ![terminalLlena](../assets/terminalLlena.jpg)
 
     *Una terminal con informacion en tiempo real de la ejecucion de un software.* 
 
     - Un navegador web: Ya que esta aplicacion estaba pensada para realizarse de entrada con acceso a internet era necesario programarla para que se ejecute en un navegador web. El mas popular de todos es Google Chrome, pero tambien puede utilizarce otros como Mozilla Firefox, Internet Explorer, Edge, etc.
 
-    ![googlechrome](./assets/chrome.jpg)
+    ![googlechrome](../assets/chrome.jpg)
 
     *Una ventana de chrome vacia*
 
     No solo se necesita el navegador, hay una herrmienta que viene con todos los navegadores que se llama consola. En esta herramienta se muestra en formato de codigo todo lo que en ese navegador esta pasando. Si tiene curisidad abran cualquier pagina web que uds frecuenten y presionen la tecla f12 en su teclado. Automaticamente una consola se abre mostrando como lo que uds ven como resultado final debe ser escrito para que asi sea.
 
-    ![consolaChrome](./assets/consolaDeChrome.jpg)
+    ![consolaChrome](../assets/consolaDeChrome.jpg)
 
     *Una consola de chrome mostrando el contenido de una pagina*
 
