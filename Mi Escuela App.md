@@ -223,7 +223,7 @@ Para garantizar una forma de trabajo segura se determinaron las siguientes etapa
 ##### BackEnd
 
 - Crear un servidor que maneje la seguridad, la conexión a la base de datos y la API.  
-    - [x] Loing.  
+    - [x] Login.  
     - [x] Seguridad.
     - [x] Matricula
     - [x] Usuarios.
@@ -234,7 +234,7 @@ Para garantizar una forma de trabajo segura se determinaron las siguientes etapa
     - [ ] Tutores.
 
 - Crear una base de datos en MongoDb con su estructura y datos.
-    - [x] Loing.  
+    - [x] Login.  
     - [x] Seguridad.
     - [x] Matricula
     - [x] Usuarios.
@@ -245,8 +245,6 @@ Para garantizar una forma de trabajo segura se determinaron las siguientes etapa
     - [ ] Tutores.
 
 - [x] Implementar el servidor en la nube para que la API pueda empezar a utilizarse.
-
-
 
 ##### FrontEnd
 
@@ -293,16 +291,17 @@ Para garantizar una forma de trabajo segura se determinaron las siguientes etapa
 
 - [ ] Adaptar el diseño para que pueda ser usado por varias instituciones educativas.
 
- 
+Como se puede ver aun falta mucho camino por delente, sin embargo ya esta echo un modulo totalmente funcional de la apliacion la cual puede ser accedida desde interenet en la siguiente direccion.
 
+https://miescuela-5e8d6.web.app/
 
+Ademas el codigo fuente del proyecto esta totalmente abierto a cualquiera que desee en la siguiente direccion.
 
+https://github.com/alejandrorojasit/MiEscuela
 
+Ahi se puede ver todo el codigo, la esctructuras de carptas y archivos del proyecto total.
 
-
-
-
-
+---
 
 [^servidor]: Servidor (Un servidor es una computadora especializada para estar encendida las 24 hs y que esta pueda ser accedida desde una red local o por internet. Para hacerse una idea, cada vez que alguien quiere entrar a www.google.com.ar un servidor responde a esa solicitud envidando la información necesaria para que el usuario vea en su pantalla dicha página. Cuando el usuario realiza una búsqueda, es el servidor quien en primera medida recibe los parámetros de búsqueda y ejecuta la misma para posteriormente enviar los resultados al usuario y que este los vea en pantalla.)  
 
