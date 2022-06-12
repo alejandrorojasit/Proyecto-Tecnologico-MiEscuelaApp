@@ -19,6 +19,14 @@ Fue ahí cuando en esa etapa tan temprana de no saber absolutamente nada empecé
 > 6. Controlar o mejorar.
 > 7. Volver al paso 1.  
 
+En el transcurso de la lectura de este documento se encontraran palabras tecnicas las cuales tienen un numero a su lado. Si se hace clic en ese numero los llevara a la descripcion de la palabra.
+
+![referencia](../assets/referencia.jpg)
+
+Luego si hacen clic en la flecha que esta al final de cada descripcion volvera a donde estaban leyendo.
+
+![referencia2](../assets/referencia2.jpg)
+
 
 # Identificación del problema
 
@@ -170,7 +178,7 @@ JavaScript, HTML, CSS, NeoVim, Chrome de por sí ya son tecnologías, así como 
 
 - MongoDb (MongoDb es una base de datos especialmente diseñada para crear ámbitos modernos, escalables y sumamente potentes)
 
-- Express (Es un framework especialmente diseñado para NodeJs el cual está pensado especialmente para crear aplicaciones web y APIs [^apis])
+- Express (Es un framework [^framework]  especialmente diseñado para NodeJs el cual está pensado especialmente para crear aplicaciones web y APIs [^apis])
 
 - NodeJs (Utiliza JavaScript para crear aplicaciones del lado del backend, tiene como principal objetivo ser multiplataforma y que tenga una gran escalabilidad. NodeJs se basa en el motor V8 de Google)
 
@@ -208,7 +216,7 @@ Para poder garantizar los requerimientos del diseño se deben adoptar más tecno
 
 - Mongoose: Es un framework especializado para trabajar en conjunto con NodeJs y MongoDb. Simplifica el trabajo de realizar consultas a la base de datos.
 
-- Bootstrap: Bootstrap es un framework [^framework] creado por Twitter, fue pensado para crear el layout [^layout], especialmente pensado para que sea un diseño que se adapte a los diferentes tipos de pantalla y sus tamaños.
+- Bootstrap: Bootstrap es un framework creado por Twitter, fue pensado para crear el layout [^layout], especialmente pensado para que sea un diseño que se adapte a los diferentes tipos de pantalla y sus tamaños.
 
 - React-Bootstrap: Es la implementación de Bootstrap pensado especialmente para el uso con React.
 
