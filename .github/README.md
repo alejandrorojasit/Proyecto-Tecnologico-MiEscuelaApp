@@ -1,13 +1,13 @@
 # Introducción
 
-Este proyecto surge no sólo por el motivo que la materia presenta con el fin de poder presentar una solución, ya sea un bien o un servicio ante un problema o necesidad. Sino como un conjunto de necesidades tanto de a quién va destinado el uso de proyecto, sino como también necesidades personales de quien lo desarrolla a fin de poder adquirir nuevas habilidades para poder crecer tanto personal como profesionalmente.  
+Este proyecto surge no sólo por el motivo que la materia presenta con el fin de poder brindar una solución, ya sea un bien o un servicio ante un problema, sino como un conjunto de necesidades tanto de a quién va destinado el uso del proyecto, como también de aquellas necesidades personales de quien lo desarrolla, a fin de poder adquirir nuevas habilidades para poder crecer tanto personal como profesionalmente.  
 Es así como en el transcurso del desarrollo del proyecto, que comenzó desde cero, tanto en el uso de técnicas, así como de conocimiento, fue un constante aprendizaje en el cual en muchas ocasiones se tuvo que rever y replantear gran parte del mismo. Ha sido una experiencia ardua pero sumamente satisfactoria, plagada de situaciones en las cuales, a modo de ejemplificar, cuando se creía llegar a la cima de la montaña se encontraba con picos aún más altos que no estaban a primera vista.  
 Así fue como comenzó y continúa mi odisea en el desarrollo de software. Espero que este proyecto no solo sirva como referencia de, sin importar que, aquello que deseamos se puede cumplir si trabajamos lo suficiente en ello, sino que ayude a quien no tenga ninguna experiencia ni conocimiento en el campo de desarrollo de software a poder lograr una idea básica de lo que este arte trata. 
 
 ### Una necesidad Personal
 
 Los motivos personales de cómo comenzó este proyecto se remontan hace muchos años atrás. Toda mi vida me dediqué a la informática, trabajé los últimos 20 años en ella. Sin embargo, el desarrollo de software siempre fue un gran pendiente en mi portafolio de habilidades. Nunca me hice de la *voluntad* para empezar a estudiar sobre ello por diferentes motivos. Fue así hasta el año 2021 en el cual decidí dar un giro a mi carrera y empezar el camino hacia ser un desarrollador de software a tiempo completo.  
-Fue ahí cuando en esa etapa tan temprana de no saber absolutamente nada empecé a buscar en mi día a día una idea, de que poder crear, necesitaba tener metas fijas las cuales poder utilizar para aprender lo que era conveniente y no todo lo que existe ya que el campo del desarrollo de software es inmensamente amplio. Para poder llegar a mi misión, necesitaba un proyecto, el cual me llevará paso a paso a descubrir todas las etapas las cuales me iba a enfrentar.
+Fue ahí cuando en esa etapa tan temprana de no saber absolutamente nada empecé a buscar en mi día a día una idea, de que poder crear, necesitaba tener metas fijas las cuales poder utilizar para aprender lo que era conveniente y no todo lo que existe, ya que el campo del desarrollo de software es inmensamente amplio. Para poder llegar a mi misión, necesitaba un proyecto, el cual me llevará paso a paso a descubrir todas las etapas a las cuales me iba a enfrentar.
 
 > El desarrollo completo de este proyecto fue basado en la forma más básica y más potente que tiene cualquier persona de lograr sus objetivos.
 >
@@ -30,7 +30,7 @@ Luego si hacen clic en la flecha que esta al final de cada descripcion volvera a
 
 # Identificación del problema
 
-Trabajo en una escuela desde hace más de 10 años, en la cual mi actividad es la de mantener toda la infraestructura informática. Eso contempla computadoras de las diferentes áreas, así como también toda la estructura de red y los servidores asociados a ella. En este tiempo fueron muchos los problemas que surgieron, sin embargo, hay uno puntualmente que nunca se le pudo dar solución. Este problema se refiere al manejo de la información dentro de la escuela y la coordinación de dicha información entre las diferentes áreas.  
+Trabajo en una escuela desde hace más de 10 años, en la cual mi actividad es la de mantener toda la infraestructura informática. Eso contempla computadoras de las diferentes áreas, así como también toda la estructura de red y los servidores asociados a ella. En este tiempo fueron muchos los problemas que surgieron, sin embargo, hay uno puntualmente al que nunca se le pudo dar solución. Este problema se refiere al manejo de la información dentro de la escuela y la coordinación de dicha información entre las diferentes áreas.  
 
 La información a la cual me refiero es la siguiente:
 
@@ -45,13 +45,13 @@ La información a la cual me refiero es la siguiente:
 
 Esta información siempre fue manejada utilizando Excel y Word. Se detalla a continuación cuales son los problemas y dificultades que el uso de estas tecnologías genera. Algunas son por una limitación de tecnología en sí y otras por el factor de su complejidad de uso en ciertas circunstancias.
 
-- Es sumamente difícil estandarizar nombres de archivos y locación donde los mismos se guardan. Esto puede ser ya sea por omisión del usuario de seguir estándar al guardar o escribir el nombre del archivo. O por error involuntario del mismo.
+- Es sumamente difícil estandarizar nombres de archivos y locación donde los mismos se guardan. Esto puede ser, ya sea por omisión del usuario de seguir estándar al guardar o escribir el nombre del archivo, o por error involuntario del mismo.
 - Si bien tanto Excel como Word presentan la posibilidad de generar plantillas para que se intente tener para todos la misma estructura en la cual se muestra la información, es posible que ya sea por el error humano mencionado con anterioridad o un error de compatibilidad entre las diferentes versiones de Word o Excel instaladas en las diferentes máquinas (de bien de uso de la escuela así como particulares) esta plantilla se "rompa" y termine siendo un verdadero dolor de cabeza corregir esos errores más cuando el archivo ya fue cargado con información.
 - Cuando la cantidad de información es muy grande, por ejemplo, una matrícula la cual cuenta con cientos o miles de entradas se corre un gran riesgo al utilizar esa información sobre un Excel. Algunos de los motivos se detallan a continuación:  
 
   - Es posible modificar valores sin darse cuenta y guardarlos junto a cambios realizados legítimos.
   - No se puede tener control de quien o cuando se cambió la información.
-  - Lentitud en general, estas planillas son grandes y pesadas. El problema aumenta al trabajar con archivos en una red o más aún cuando se trabaja con estos archivos por internet.
+  - Lentitud en general ya que estas planillas son grandes y pesadas. El problema aumenta al trabajar con archivos en una red o más aún cuando se trabaja con estos archivos por internet.
   - Uso de filtros complejos y poco amigables. Además, los filtros pueden quedar guardados generando que quien abre después la planilla no tenga toda la información disponible.
 
 - No existen tecnologías que vengan ya con Excel y Word que hagan un respaldo de la información, esta debe ser aplicada de forma externa al mismo.
@@ -82,23 +82,23 @@ Como problemas secundarios se puede mencionar:
 
 Dentro de la información que se recaudó a fin de obtener una posible solución se utilizó:
 
-- Búsquedas en general en internet, foros, blogs, buscando como poder mejorar la situación utilizando en primera medida las herramientas y tecnologías que ya estaban en uso.
+- Búsquedas en general en internet, foros, blogs, con el objetivo de poder mejorar la situación utilizando en primera medida las herramientas y tecnologías que ya estaban en uso.
 - Consultas a otras instituciones para ver si alguna de ellas tenía una solución digital ya funcionando. Ninguna de ellas contaba con una digitalización de su información, y de tener alguna estaban en la misma situación, utilizaban Excel o Word.
-- Búsquedas en internet de software [^software] empaquetado (El software empaquetado es aquel que ya viene terminado y cerrado, no se pueden realizar cambios sobre el mismo, se debe utilizar como viene)
+- Búsquedas en internet de software [^software] empaquetado (el software empaquetado es aquel que ya viene terminado y cerrado, no se pueden realizar cambios sobre el mismo, se debe utilizar como viene)
 - Búsquedas de proveedores de soluciones digitales de software empaquetado y a medida.
 - Consultas a profesionales en desarrollo de software a fin de pedir presupuestos para la realización de un software a medida.
 
 # Identificación de las soluciones 
 
-Durante el transcurso de los años se intentó incorporar otra tecnología o métodos que dieran solución a los problemas mencionados con anterioridad. De la búsqueda de información se pusieron en juicio varias posibles soluciones, algunas de ellas fueron implementadas y otras descartadas de inmediato al analizar que no iban a poder ser implementadas. Las posibles soluciones las cuales se detallan a continuación y cuáles fueron los motivos por las que fallaron.
+Durante el transcurso de los años se intentó incorporar otra tecnología o métodos que dieran solución a los problemas mencionados con anterioridad. De la búsqueda de información se pusieron en juicio varias posibles soluciones, algunas de ellas fueron implementadas y otras descartadas de inmediato al analizar que no iban a poder ser implementadas. A continuación se detallan las posibles soluciones y los motivos por los cuales fallaron.
 
 - Capacitación al personal para lograr estandarizar las formas de trabajo. FALLO (falta de predisposición tanto de directivos como personal en recibir capacitación)
-- Generar carpetas donde guardar la información en los servidores [^servidor] y tener un espacio de trabajo único. FALLO a medias (si bien el personal empezó a utilizar dicho espacio, no hubo forma de estandarizar la manera que lo hacía, guardaba o escribía la información.)
+- Generar carpetas donde guardar la información en los servidores [^servidor] y tener un espacio de trabajo único. FALLO PARCIALMENTE (si bien el personal empezó a utilizar dicho espacio, no hubo forma de estandarizar la manera que lo hacía, guardaba o escribía la información.)
 - Adquirir un software de gestión ya hecho que se utilizara en otras instituciones educativas. FALLO (debido a la particularidad de la institución hacía falta que el software tuviera un formato muy específico)
 
-Fue aquí, después de agotar todas estas opciones cuando decidí plantear crear un software a medida, era la situación ideal para poder crear mi propio proyecto, el mencionado anteriormente y poder satisfacer las necesidades de la institución.
+Fue aquí, después de agotar todas estas opciones cuando decidí plantear crear un software a medida, era la situación ideal para poder crear mi propio proyecto mencionado anteriormente y poder satisfacer las necesidades de la institución.
 
-Dentro de las ventajas de que alguien que está trabajando dentro de la institución haga un software así son:
+Dentro de las ventajas de que alguien que está trabajando dentro de la institución haga un software son:
 
 - Conocimiento profundo de las necesidades institucionales.
 - Conocer al personal.
@@ -110,7 +110,7 @@ Dentro de las ventajas de que alguien que está trabajando dentro de la instituc
 
 # Búsqueda de la información (segunda parte)
 
-Una vez decidido que se iba a realizar un software a medida, y que iba a ser desarrollado por mí. Seguía buscar la mayor cantidad de información posible teniendo en cuenta los siguientes puntos:
+Una vez decidido que se iba a realizar un software a medida, y que iba a ser desarrollado por mí seguía buscar la mayor cantidad de información posible teniendo en cuenta los siguientes puntos:
 
 - En qué lenguaje [^lenguaje] se iba a realizar el desarrollo.
 - Qué herramientas se iban a utilizar.
@@ -124,12 +124,12 @@ Esta etapa fue bastante larga y en ciertos momentos abrumadora. Partiendo desde 
 En primera medida había que definir de forma clara qué lenguaje se iba a utilizar. Como se mencionó en la parte de palabras técnicas, existen cientos de lenguajes diferentes. La búsqueda de información acerca de cuál elegir se basó en los siguientes conceptos:
 
 - Popularidad 
-- Acceso a grandes fuentes de información de cómo utilizar el lenguaje. Ya sea documentación oficial, foros, tutoriales en YouTube.
+- Acceso a grandes fuentes de información respecto de cómo utilizar el lenguaje, ya sea documentación oficial, foros, tutoriales en YouTube.
 - Una enorme y predispuesta comunidad. Todos los lenguajes tienen una comunidad de gente que está dispuesta a brindar sus conocimientos y experiencias de forma abierta y gratuita. Esto es de vital importancia ya que se trataba de un proyecto independiente.
-- Que sea multipropósito (Tanto para crear el Frontend [^frontend] como el Backend [^backend])
-- Que sea multiplataforma (Se refiere a que se pueda ejecutar el software en cualquier tipo de pc, sin importar que sistema operativo [^operativo] tenga, o que tipo de dispositivo sea, computadora, celular o Tablet)
+- Que sea multipropósito (tanto para crear el Frontend [^frontend] como el Backend [^backend])
+- Que sea multiplataforma (se refiere a que se pueda ejecutar el software en cualquier tipo de pc, sin importar que sistema operativo [^operativo] tenga, o que tipo de dispositivo sea, computadora, celular o Tablet)
 
-Después de una larga búsqueda el lenguaje seleccionado y que cumplía todas estas pautas fue el llamado JavaScript. JavaScript es un lenguaje el cual tiene una gran flexibilidad y es el lenguaje más popular en la actualidad, según la página www.stackoverflow.com el foro más popular a nivel mundial de programación.
+Después de una larga búsqueda, el lenguaje seleccionado y que cumplía todas estas pautas fue el llamado JavaScript. JavaScript es un lenguaje el cual tiene una gran flexibilidad y es el lenguaje más popular en la actualidad, según la página www.stackoverflow.com el foro más popular a nivel mundial de programación.
 
 ![JavaScript popularidad](../assets/JavaScript.jpg)
 
@@ -139,18 +139,18 @@ Sin embargo, un solo lenguaje no es suficiente para crear una aplicación con to
 
 Dentro de las herramientas hay que separar dos categorías:
 
-- Herramienta física/hardware (Una computadora, cualquiera sea es suficiente, no hace falta una computadora especial para crear software y ni tiene que ser la más potente o moderna, tampoco es necesario un sistema operativo especial, cualquiera sirve, el único requerimiento es que tenga conexión a internet)
+- Herramienta física/hardware (una computadora, cualquiera sea es suficiente, no hace falta una computadora especial para crear software ni tiene que ser la más potente o moderna, tampoco es necesario un sistema operativo especial, cualquiera sirve, el único requerimiento es que tenga conexión a internet)
 
-- Herramientas lógicas/software (Uno de los motivos de por el cual se eligieron los lenguajes anteriormente mencionados fue que estos tienen la enorme flexibilidad de poder ser escritos literalmente en cualquier aplicación de texto, es decir, se puede programar utilizando el bloc de notas de Windows, o Word, aunque sea muy irónico nombrarlo. Es decir, no es necesario una aplicación especial para escribir el código. Sin embargo, existen aplicaciones especializadas que ayudan al trabajo en gran medida.)  
+- Herramientas lógicas/software (uno de los motivos por el cual se eligieron los lenguajes anteriormente mencionados fue que estos tienen la enorme flexibilidad de poder ser escritos literalmente en cualquier aplicación de texto, es decir, se puede programar utilizando el bloc de notas de Windows, o Word, aunque sea muy irónico nombrarlo. Es decir, no es necesario una aplicación especial para escribir el código. Sin embargo, existen aplicaciones especializadas que ayudan al trabajo en gran medida.)  
 Dentro de las herramientas que se van a utilizar se pueden mencionar:  
 
-    - NeoVim (Un editor de código. Si bien su uso es complejo, ya que de entrada no viene con nada más que la posibilidad de escribir texto, y no se utiliza el mouse, todo debe realizarse con comandos de teclado. Cuenta con una enorme flexibilidad de poder adaptar el mismo al capricho del usuario volviéndose una herramienta a medida muy poderosa y llena de plugins [^plugin] que se pueden instalar a fin de aumentar la productividad)  
+    - NeoVim (un editor de código. Si bien su uso es complejo, ya que de entrada no viene con nada más que la posibilidad de escribir texto, y no se utiliza el mouse, todo debe realizarse con comandos de teclado. Cuenta con una enorme flexibilidad de poder adaptar el mismo al capricho del usuario volviéndose una herramienta a medida muy poderosa y llena de plugins [^plugin] que se pueden instalar a fin de aumentar la productividad)  
 
     ![nvim](../assets/nvim.jpg)
 
     *Terminal de nvim con código fuente, se puede apreciar como el texto debe ser ordenado a fines de facilitar su lectura, así como también los colores que se ven son el resultado de la herramienta que colorea palabras según un patrón para facilitar también su lectura.*  
 
-    - Una terminal (Un terminal es un programa en sí mismo que viene en todos los sistemas operativos, se utiliza principalmente para leer y ejecutar comandos que el usuario envía mediante el teclado. Además, en desarrollo de software se vuelve esencial ya que a través de la terminal se leen problemas detectados al momento de ejecutar un software) 
+    - Una terminal (un terminal es un programa en sí mismo que viene en todos los sistemas operativos, se utiliza principalmente para leer y ejecutar comandos que el usuario envía mediante el teclado. Además, en desarrollo de software se vuelve esencial ya que a través de la terminal se leen problemas detectados al momento de ejecutar un software) 
 
     ![terminal Vacía](../assets/terminalVacia.jpg)
 
@@ -160,13 +160,13 @@ Dentro de las herramientas que se van a utilizar se pueden mencionar:
 
     *Una terminal con información en tiempo real de la ejecución de un software.* 
 
-    - Un navegador web: Ya que esta aplicación estaba pensada para realizarse de entrada con acceso a internet era necesario programarla para que se ejecute en un navegador web. El más popular de todos es Google Chrome, pero también puede utilizarse otros como Mozilla Firefox, Internet Explorer, Edge, etc.
+    - Un navegador web: Ya que esta aplicación estaba pensada para realizarse de entrada con acceso a internet era necesario programarla para que se ejecute en un navegador web. El más popular de todos es Google Chrome, pero también pueden utilizarse otros como Mozilla Firefox, Internet Explorer, Edge, etc.
 
     ![Google Chrome](../assets/chrome.jpg)
 
     *Una ventana de Chrome vacía*
 
-    No solo se necesita el navegador, hay una herramienta que viene con todos los navegadores que se llama consola. En esta herramienta se muestra en formato de código todo lo que en ese navegador está pasando. Si tienen curiosidad abran cualquier página web que Uds. frecuenten y presionen la tecla f12 en su teclado. Automáticamente una consola se abre mostrando como lo que Uds. ven como resultado final debe ser escrito para que así sea.
+    No solo se necesita el navegador, hay una herramienta que viene con todos los navegadores que se llama consola. En esta herramienta se muestra en formato de código todo lo que en ese navegador está pasando. Si tienen curiosidad abran cualquier página web que Uds. frecuenten y presionen la tecla f12 en su teclado. Automáticamente una consola se abre mostrando todo el codigo que la pagina contiene para que el resultado final sea lo que uds ya conocen.
 
     ![consola Chrome](../assets/consolaDeChrome.jpg)
 
@@ -174,7 +174,7 @@ Dentro de las herramientas que se van a utilizar se pueden mencionar:
 
 #### Tecnologías
 
-JavaScript, HTML, CSS, NeoVim, Chrome de por sí ya son tecnologías, así como un serrucho lo es también, sin embargo, una sierra eléctrica es una tecnología evolucionada que extiende la utilidad de la misma, la hace más funcional y lograr el mismo trabajo con mucho menor esfuerzo. Esto no es ajeno a las tecnologías en desarrollo, es por ello que como fruto de la búsqueda de la información se llegó a adoptar las siguientes tecnologías "evolucionadas" para realizar el proyecto.
+JavaScript, HTML, CSS, NeoVim, Chrome de por sí ya son tecnologías, así como un serrucho lo es también, sin embargo, una sierra eléctrica es una tecnología evolucionada que extiende la utilidad de la misma, la hace más funcional y lograr el mismo trabajo con menor esfuerzo. Esto no es ajeno a las tecnologías en desarrollo, es por ello que como fruto de la búsqueda de la información se llegó a adoptar las siguientes tecnologías "evolucionadas" para realizar el proyecto.
 
 - MongoDb (MongoDb es una base de datos especialmente diseñada para crear ámbitos modernos, escalables y sumamente potentes)
 
@@ -269,7 +269,7 @@ Para garantizar una forma de trabajo segura se determinaron las siguientes etapa
 
 ![homepannel](../assets/homepannel.jpg)
 
-- [x] Crear el módulo de Matrícula. Con sus filtros y posibilidad de edición de datos.
+- [x] Crear el módulo de Matrícula con sus filtros y posibilidad de edición de datos.
 
 ![matricula1](../assets/matricula1.jpg)
 
@@ -362,21 +362,21 @@ Espero que este proyecto siga creciendo hasta que llegue a cumplir su objetivo f
 
 Gracias!
 
-[^servidor]: Servidor (Un servidor es una computadora especializada para estar encendida las 24 hs y que esta pueda ser accedida desde una red local o por internet. Para hacerse una idea, cada vez que alguien quiere entrar a www.google.com.ar un servidor responde a esa solicitud enviando la información necesaria para que el usuario vea en su pantalla dicha página. Cuando el usuario realiza una búsqueda, es el servidor quien en primera medida recibe los parámetros de búsqueda y ejecuta la misma para posteriormente enviar los resultados al usuario y que éste los vea en pantalla.)  
+[^servidor]: Servidor (un servidor es una computadora especializada para estar encendida las 24 hs y que esta pueda ser accedida desde una red local o por internet. Para hacerse una idea, cada vez que alguien quiere entrar a www.google.com.ar un servidor responde a esa solicitud enviando la información necesaria para que el usuario vea en su pantalla dicha página. Cuando el usuario realiza una búsqueda, es el servidor quien en primera medida recibe los parámetros de búsqueda y ejecuta la misma para posteriormente enviar los resultados al usuario y que éste los vea en pantalla.)  
 
-[^software]: Software (Se refiere a todo programa, código, aplicación, que corre o se ejecuta en un equipo informático, ya sea, una computadora, celular o Tablet. Si bien el campo es más amplio a cuantos equipos posibles existe para que corra un software, solo nos limitaremos a computadoras, celular o tabletas) *El software es todo aquello que no es tangible, existe, pero no de forma física.*
+[^software]: Software (se refiere a todo programa, código, aplicación, que corre o se ejecuta en un equipo informático, ya sea, una computadora, celular o Tablet. Si bien el campo es más amplio a cuantos equipos posibles existe para que corra un software, solo nos limitaremos a computadoras, celular o tabletas). *El software es todo aquello que no es tangible, existe, pero no de forma física.*
 
 [^hardware]: Hardware (Se refiere a todo componente físico que conforma un equipo informático, teclado, mouse, pantalla, parlantes, botones, etc.)
 
-[^lenguaje]: Lenguaje (Cuando se habla de lenguaje de programación se hace referencia a cuál será el "idioma" que el desarrollador utilizará para darle indicaciones al equipo informático. Existen cientos de lenguajes diferentes, algunos generales y otros específicos, todos tienen sus ventajas y falencias.)
+[^lenguaje]: Lenguaje (cuando se habla de lenguaje de programación se hace referencia a cuál será el "idioma" que el desarrollador utilizará para darle indicaciones al equipo informático. Existen cientos de lenguajes diferentes, algunos generales y otros específicos, todos tienen sus ventajas y falencias.)
 
-[^frontend]: Frontend (Hace referencia a la parte del software con la cual interactúa el usuario)
+[^frontend]: Frontend (hace referencia a la parte del software con la cual interactúa el usuario)
 
-[^backend]: Backend (Hace referencia a la parte del software que está alojado en servidor, ejecuta y coordina como se va a entregar la información al Frontend, así como también maneja la seguridad)
+[^backend]: Backend (hace referencia a la parte del software que está alojado en el servidor, ejecuta y coordina como se va a entregar la información al Frontend, así como también maneja la seguridad)
 
-[^operativo]: Sistema operativo (El sistema operativo es con lo primero que un usuario se encuentra al otilar un equipo informático, es en este sistema operativo que se ejecutan las aplicaciones o software, es el sistema operativo el encargado de realizar la unión entre software y hardware en caso de una computadora, este puede ser Windows o Linux, en caso de un teléfono puede ser Android, IOS -Para iPhone- o Windows Phone, para tabletas este puede ser Windows Mobile, Android o IOS)
+[^operativo]: Sistema operativo (el sistema operativo es con lo primero que un usuario se encuentra al utilizar un equipo informático, es en este sistema operativo que se ejecutan las aplicaciones o software, es el sistema operativo el encargado de realizar la unión entre software y hardware en caso de una computadora, este puede ser Windows o Linux, en caso de un teléfono puede ser Android, IOS -Para iPhone- o Windows Phone, para tabletas este puede ser Windows Mobile, Android o IOS)
 
-[^plugin]: Plugin o complemento es una aplicación que permite extender el funcionamiento de otra aplicación. Sin tener que escribir código, es como pequeños ladrillos de plástico que se van uniendo para formar una estructura más compleja.
+[^plugin]: Plugin o complemento es una aplicación que permite extender el funcionamiento de otra aplicación, sin tener que escribir código, es como pequeños ladrillos de plástico que se van uniendo para formar una estructura más compleja.
 
 [^librería]: Una librería es un conjunto de funciones ya creadas de antemano que facilitan el trabajo de crear de cero las mismas, es decir, es un código ya escrito, probado y refinado que se puede reutilizar a criterio con el fin de acelerar la producción. 
 
@@ -392,7 +392,7 @@ Gracias!
 
 [^token]: Un token es una forma de esconder información, se toma una información sensible y se cambia por un algoritmo a algo sin sentido que luego puede ser devuelto a su estado original realizando el algoritmo en sentido contrario.
 
-[^estado]: Un estado en una aplicación de React es como una fotografía de la aplicación en un momento dado, al cambiar algo por ejemplo llenar un formulario y hacer clic en un evento, un botón, por ejemplo, se vuelve a sacar otra fotografía de la aplicación en ese momento. Luego se comparan las 2 y solo se cambia en pantalla los objetos que tuvieron diferencia. Esto hace mucho más rápido el proceso que tener que enviar toda la página de nuevo desde el servidor y esperar que se cargue.
+[^estado]: Un estado en una aplicación de React es como una fotografía de la aplicación en un momento dado, al cambiar algo, por ejemplo llenar un formulario y hacer clic en un evento, un botón, se vuelve a sacar otra fotografía de la aplicación en ese momento. Luego se comparan las 2 y solo se cambia en pantalla los objetos que tuvieron diferencia. Esto hace mucho más rápido el proceso de tener que enviar toda la página de nuevo desde el servidor y esperar que se cargue.
 
 [^padreahijo]: Se conoce como pasar de padre a hijo cuando un módulo contiene otro en su interior. Para que el que está dentro acceda a la información de su módulo padre, este debe pasarle la información al hijo a fin de que esté disponible para ese. Esto plantea un problema cuando se tienen muchos hijos o niveles de anidamiento muy grandes en los cuales hay un ancestro común general , varios padres y varios hijos de cada uno y todos deben acceder a la misma información.
 
